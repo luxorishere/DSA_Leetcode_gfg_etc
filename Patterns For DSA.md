@@ -1,6 +1,3 @@
-sure, here it is without timestamps and formatted for markdown:
-
----
 
 ## Prefix Sum
 **prefix sum** is an array where each element at index i is the sum of elements from the original array from index 0 to i. 
